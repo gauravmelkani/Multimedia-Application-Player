@@ -1,6 +1,6 @@
 # Multimedia-Application-Player
 VLC Clone - Simple Multimedia Player
-This project is a basic VLC Clone that serves as a simplified media player, designed with core playback functionalities inspired by VLC Media Player. The application features a user-friendly interface that allows users to play video files, control playback speed, and adjust audio volume.
+This project is a  VLC Clone that serves as a simplified media player, designed with core playback functionalities inspired by VLC Media Player. The application features a user-friendly interface that allows users to play video files, control playback speed, and adjust audio volume.
 
 Features:
 
